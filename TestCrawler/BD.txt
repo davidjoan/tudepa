@@ -1,0 +1,26 @@
+USE [master]
+GO
+CREATE DATABASE [Base]
+GO
+USE [Base]
+GO
+CREATE TABLE [dbo].[Data](
+	[Id] [int] Primary key IDENTITY(1,1) NOT NULL,
+	[Provincia] [varchar](100) NULL,
+	[Distrito] [varchar](100) NULL,
+	[Direccion] [varchar](150) NULL,
+	[Precio] [varchar](50) NULL,
+	[TipoVivienda] [varchar](50) NULL,
+	[TipoOperacion] [varchar](50) NULL,
+	[Anuncio] [varchar](800) NULL,
+	[URL] [varchar](400) NOT NULL,
+	[FecCreado] [datetime] NULL default getdate()
+	) 
+GO
+CREATE PROC [dbo].[insData]
+@URL varchar(400)
+as 
+INSERT INTO Data(URL)
+VALUES (@URL)
+GO
+

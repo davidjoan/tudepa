@@ -1,0 +1,17 @@
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\bin\Debug\TestCrawler.exe.config
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\bin\Debug\TestCrawler.exe
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\bin\Debug\TestCrawler.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\obj\Debug\TestCrawler.Form1.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\obj\Debug\TestCrawler.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\obj\Debug\TestCrawler.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\obj\Debug\TestCrawler.exe
+C:\Users\TOSHIBA\Documents\Visual Studio 2012\Projects\TestCrawler\TestCrawler\obj\Debug\TestCrawler.pdb
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\bin\Debug\TestCrawler.exe.config
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\obj\Debug\TestCrawler.exe
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\obj\Debug\TestCrawler.pdb
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\bin\Debug\TestCrawler.exe
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\bin\Debug\TestCrawler.pdb
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\obj\Debug\TestCrawler.csprojResolveAssemblyReference.cache
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\obj\Debug\TestCrawler.Form1.resources
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\obj\Debug\TestCrawler.Properties.Resources.resources
+D:\DTataje\Escritorio\TestCrawler\TestCrawler\TestCrawler\obj\Debug\TestCrawler.csproj.GenerateResource.Cache
